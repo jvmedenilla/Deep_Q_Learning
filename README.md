@@ -6,4 +6,4 @@ This project is about Deep Reinforcement Learning. This is mini-project #5 from 
 In this project, I implemented Deep Q-Network (DQN) and Double DQN on the game Breakout using the OPENAI gym library (https://www.gymlibrary.dev/).
 In addition, I implemented DQN with LSTM, so the model only sees current frames as observations without the need of explicit history. 
 
-The notebook "MP5.ipynb" contains the flow of the whole process. The models and networks can be found inside the folder "gan".
+The notebook "MP5.ipynb" contains the flow of the whole process.
